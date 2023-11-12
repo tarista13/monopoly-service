@@ -5,6 +5,8 @@ This is the data service application for the
  which is deployed here:
           
 - <https://cs262-lab09.azurewebsites.net>
+- <https://cs262-lab09.azurewebsites.net/players>
+- <https://cs262-lab09.azurewebsites.net/players/1>
 
 It has the following read data route URLs:
 - `/` a hello message
